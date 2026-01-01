@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chainsaw Man - Manga Reader</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Chainsaw Man</h1>
+            <p class="subtitle">Manga Reader</p>
+        </header>
+
+        <main>
+            <!-- Volume Browser -->
+            <section id="volume-browser" class="browser-section">
+                <h2>Volumes</h2>
+                <div id="volumes-list" class="volumes-grid"></div>
+            </section>
+
+            <!-- Chapter Browser -->
+            <section id="chapter-browser" class="browser-section hidden">
+                <div class="browser-header">
+                    <button id="back-to-volumes" class="back-btn">← Back to Volumes</button>
+                    <h2 id="current-volume-title"></h2>
+                </div>
+                <div id="chapters-list" class="chapters-grid"></div>
+            </section>
+
+            <!-- Manga Reader -->
+            <section id="reader" class="reader-section hidden">
+                <div class="reader-header">
+                    <button id="back-to-chapters" class="back-btn">← Back to Chapters</button>
+                    <div class="reader-info">
+                        <span id="reader-volume"></span> - 
+                        <span id="reader-chapter"></span>
+                        <span class="page-info">Page <span id="current-page">1</span> / <span id="total-pages">1</span></span>
+                    </div>
+                </div>
+                <div class="reader-controls">
+                    <button id="prev-page" class="nav-btn">← Previous</button>
+                    <button id="next-page" class="nav-btn">Next →</button>
+                </div>
+                <div class="image-container">
+                    <img id="manga-image" src="" alt="Manga page" />
+                </div>
+                <div class="reader-controls-bottom">
+                    <button id="prev-page-bottom" class="nav-btn">← Previous</button>
+                    <button id="next-page-bottom" class="nav-btn">Next →</button>
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+

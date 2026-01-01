@@ -1,0 +1,956 @@
+{
+  "title": "Chainsaw Man",
+  "format": "digitally-colored",
+  "volumes": [
+    {
+      "id": "v01",
+      "number": 1,
+      "title": "Chainsaw Man - Digital Colored Comics v01 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch001",
+          "number": 1,
+          "title": "Dog & Chainsaw",
+          "imageCount": 57,
+          "path": "volumes/v01/ch001",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch001"
+        },
+        {
+          "id": "ch002",
+          "number": 2,
+          "title": "The Place Where Pochita Is",
+          "imageCount": 26,
+          "path": "volumes/v01/ch002",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch002"
+        },
+        {
+          "id": "ch003",
+          "number": 3,
+          "title": "Arrival in Tokyo",
+          "imageCount": 24,
+          "path": "volumes/v01/ch003",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch003"
+        },
+        {
+          "id": "ch004",
+          "number": 4,
+          "title": "Power",
+          "imageCount": 20,
+          "path": "volumes/v01/ch004",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch004"
+        },
+        {
+          "id": "ch005",
+          "number": 5,
+          "title": "A Way to Touch Some Boobs",
+          "imageCount": 20,
+          "path": "volumes/v01/ch005",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch005"
+        },
+        {
+          "id": "ch006",
+          "number": 6,
+          "title": "Service",
+          "imageCount": 20,
+          "path": "volumes/v01/ch006",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch006"
+        },
+        {
+          "id": "ch007",
+          "number": 7,
+          "title": "Meowy's Whereabouts",
+          "imageCount": 26,
+          "path": "volumes/v01/ch007",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v01/ch007"
+        }
+      ]
+    },
+    {
+      "id": "v02",
+      "number": 2,
+      "title": "Chainsaw Man - Digital Colored Comics v02 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch008",
+          "number": 8,
+          "title": "Chainsaw Vs. Bat",
+          "imageCount": 24,
+          "path": "volumes/v02/ch008",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch008"
+        },
+        {
+          "id": "ch009",
+          "number": 9,
+          "title": "Rescue",
+          "imageCount": 20,
+          "path": "volumes/v02/ch009",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch009"
+        },
+        {
+          "id": "ch010",
+          "number": 10,
+          "title": "Kon",
+          "imageCount": 20,
+          "path": "volumes/v02/ch010",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch010"
+        },
+        {
+          "id": "ch011",
+          "number": 11,
+          "title": "Compromise",
+          "imageCount": 20,
+          "path": "volumes/v02/ch011",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch011"
+        },
+        {
+          "id": "ch012",
+          "number": 12,
+          "title": "Squeeze",
+          "imageCount": 19,
+          "path": "volumes/v02/ch012",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch012"
+        },
+        {
+          "id": "ch013",
+          "number": 13,
+          "title": "Gun Devil",
+          "imageCount": 19,
+          "path": "volumes/v02/ch013",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch013"
+        },
+        {
+          "id": "ch014",
+          "number": 14,
+          "title": "French Kiss",
+          "imageCount": 19,
+          "path": "volumes/v02/ch014",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch014"
+        },
+        {
+          "id": "ch015",
+          "number": 15,
+          "title": "Endless 8th Floor",
+          "imageCount": 22,
+          "path": "volumes/v02/ch015",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch015"
+        },
+        {
+          "id": "ch016",
+          "number": 16,
+          "title": "The First Taste",
+          "imageCount": 29,
+          "path": "volumes/v02/ch016",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v02/ch016"
+        }
+      ]
+    },
+    {
+      "id": "v03",
+      "number": 3,
+      "title": "Chainsaw Man - Digital Colored Comics v03 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch017",
+          "number": 17,
+          "title": "Kill Denji",
+          "imageCount": 25,
+          "path": "volumes/v03/ch017",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch017"
+        },
+        {
+          "id": "ch018",
+          "number": 18,
+          "title": "Chainsaw Vs. Eternity",
+          "imageCount": 20,
+          "path": "volumes/v03/ch018",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch018"
+        },
+        {
+          "id": "ch019",
+          "number": 19,
+          "title": "Nobel Prize",
+          "imageCount": 19,
+          "path": "volumes/v03/ch019",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch019"
+        },
+        {
+          "id": "ch020",
+          "number": 20,
+          "title": "Drinking",
+          "imageCount": 19,
+          "path": "volumes/v03/ch020",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch020"
+        },
+        {
+          "id": "ch021",
+          "number": 21,
+          "title": "Taste of a Kiss",
+          "imageCount": 20,
+          "path": "volumes/v03/ch021",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch021"
+        },
+        {
+          "id": "ch022",
+          "number": 22,
+          "title": "Cola-Flavor Chupa Chups",
+          "imageCount": 20,
+          "path": "volumes/v03/ch022",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch022"
+        },
+        {
+          "id": "ch023",
+          "number": 23,
+          "title": "Gunfire",
+          "imageCount": 20,
+          "path": "volumes/v03/ch023",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch023"
+        },
+        {
+          "id": "ch024",
+          "number": 24,
+          "title": "Curse",
+          "imageCount": 19,
+          "path": "volumes/v03/ch024",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch024"
+        },
+        {
+          "id": "ch025",
+          "number": 25,
+          "title": "Ghost, Snake, Chainsaw",
+          "imageCount": 30,
+          "path": "volumes/v03/ch025",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v03/ch025"
+        }
+      ]
+    },
+    {
+      "id": "v04",
+      "number": 4,
+      "title": "Chainsaw Man - Digital Colored Comics v04 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch026",
+          "number": 26,
+          "title": "The Gun is Mightier",
+          "imageCount": 26,
+          "path": "volumes/v04/ch026",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch026"
+        },
+        {
+          "id": "ch027",
+          "number": 27,
+          "title": "From Kyoto",
+          "imageCount": 19,
+          "path": "volumes/v04/ch027",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch027"
+        },
+        {
+          "id": "ch028",
+          "number": 28,
+          "title": "Secrets & Lies",
+          "imageCount": 20,
+          "path": "volumes/v04/ch028",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch028"
+        },
+        {
+          "id": "ch029",
+          "number": 29,
+          "title": "Perfect Score",
+          "imageCount": 22,
+          "path": "volumes/v04/ch029",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch029"
+        },
+        {
+          "id": "ch030",
+          "number": 30,
+          "title": "Bruised & Battered",
+          "imageCount": 20,
+          "path": "volumes/v04/ch030",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch030"
+        },
+        {
+          "id": "ch031",
+          "number": 31,
+          "title": "The Future Rules",
+          "imageCount": 20,
+          "path": "volumes/v04/ch031",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch031"
+        },
+        {
+          "id": "ch032",
+          "number": 32,
+          "title": "Over and Over Again",
+          "imageCount": 19,
+          "path": "volumes/v04/ch032",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch032"
+        },
+        {
+          "id": "ch033",
+          "number": 33,
+          "title": "Mission Start",
+          "imageCount": 22,
+          "path": "volumes/v04/ch033",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch033"
+        },
+        {
+          "id": "ch034",
+          "number": 34,
+          "title": "Full Team",
+          "imageCount": 26,
+          "path": "volumes/v04/ch034",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v04/ch034"
+        }
+      ]
+    },
+    {
+      "id": "v05",
+      "number": 5,
+      "title": "Chainsaw Man - Digital Colored Comics v05 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch035",
+          "number": 35,
+          "title": "Minor",
+          "imageCount": 26,
+          "path": "volumes/v05/ch035",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch035"
+        },
+        {
+          "id": "ch036",
+          "number": 36,
+          "title": "Katana vs. Chainsaw",
+          "imageCount": 19,
+          "path": "volumes/v05/ch036",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch036"
+        },
+        {
+          "id": "ch037",
+          "number": 37,
+          "title": "Train, Head, Chainsaw",
+          "imageCount": 17,
+          "path": "volumes/v05/ch037",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch037"
+        },
+        {
+          "id": "ch038",
+          "number": 38,
+          "title": "Easy Revenge!",
+          "imageCount": 26,
+          "path": "volumes/v05/ch038",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch038"
+        },
+        {
+          "id": "ch039",
+          "number": 39,
+          "title": "Tearjerker",
+          "imageCount": 20,
+          "path": "volumes/v05/ch039",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch039"
+        },
+        {
+          "id": "ch040",
+          "number": 40,
+          "title": "Love, Flower, Chainsaw",
+          "imageCount": 20,
+          "path": "volumes/v05/ch040",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch040"
+        },
+        {
+          "id": "ch041",
+          "number": 41,
+          "title": "Before the Storm",
+          "imageCount": 20,
+          "path": "volumes/v05/ch041",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch041"
+        },
+        {
+          "id": "ch042",
+          "number": 42,
+          "title": "Teach Me How to Swim",
+          "imageCount": 20,
+          "path": "volumes/v05/ch042",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch042"
+        },
+        {
+          "id": "ch043",
+          "number": 43,
+          "title": "Jane Fell Asleep in the Church",
+          "imageCount": 33,
+          "path": "volumes/v05/ch043",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v05/ch043"
+        }
+      ]
+    },
+    {
+      "id": "v06",
+      "number": 6,
+      "title": "Chainsaw Man - Digital Colored Comics v06 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch044",
+          "number": 44,
+          "title": "Boom Boom Boom",
+          "imageCount": 24,
+          "path": "volumes/v06/ch044",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch044"
+        },
+        {
+          "id": "ch045",
+          "number": 45,
+          "title": "A Fine Day For Explosions",
+          "imageCount": 20,
+          "path": "volumes/v06/ch045",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch045"
+        },
+        {
+          "id": "ch046",
+          "number": 46,
+          "title": "Massacre Melody",
+          "imageCount": 22,
+          "path": "volumes/v06/ch046",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch046"
+        },
+        {
+          "id": "ch047",
+          "number": 47,
+          "title": "Luck with Women",
+          "imageCount": 20,
+          "path": "volumes/v06/ch047",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch047"
+        },
+        {
+          "id": "ch048",
+          "number": 48,
+          "title": "Kaboom Kaboom Kaboom",
+          "imageCount": 20,
+          "path": "volumes/v06/ch048",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch048"
+        },
+        {
+          "id": "ch049",
+          "number": 49,
+          "title": "Shark Hurricane",
+          "imageCount": 21,
+          "path": "volumes/v06/ch049",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch049"
+        },
+        {
+          "id": "ch050",
+          "number": 50,
+          "title": "Sharknado",
+          "imageCount": 18,
+          "path": "volumes/v06/ch050",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch050"
+        },
+        {
+          "id": "ch051",
+          "number": 51,
+          "title": "Dark Diving",
+          "imageCount": 20,
+          "path": "volumes/v06/ch051",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch051"
+        },
+        {
+          "id": "ch052",
+          "number": 52,
+          "title": "Lost Love, Flower, Chainsaw",
+          "imageCount": 27,
+          "path": "volumes/v06/ch052",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v06/ch052"
+        }
+      ]
+    },
+    {
+      "id": "v07",
+      "number": 7,
+      "title": "Chainsaw Man - Digital Colored Comics v07 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch053",
+          "number": 53,
+          "title": "In a Dream",
+          "imageCount": 28,
+          "path": "volumes/v07/ch053",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch053"
+        },
+        {
+          "id": "ch054",
+          "number": 54,
+          "title": "To Go to Enoshima",
+          "imageCount": 20,
+          "path": "volumes/v07/ch054",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch054"
+        },
+        {
+          "id": "ch055",
+          "number": 55,
+          "title": "Let's Go",
+          "imageCount": 20,
+          "path": "volumes/v07/ch055",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch055"
+        },
+        {
+          "id": "ch056",
+          "number": 56,
+          "title": "A Curse and a First",
+          "imageCount": 20,
+          "path": "volumes/v07/ch056",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch056"
+        },
+        {
+          "id": "ch057",
+          "number": 57,
+          "title": "Suddenly",
+          "imageCount": 20,
+          "path": "volumes/v07/ch057",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch057"
+        },
+        {
+          "id": "ch058",
+          "number": 58,
+          "title": "Kurose Yutaro",
+          "imageCount": 19,
+          "path": "volumes/v07/ch058",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch058"
+        },
+        {
+          "id": "ch059",
+          "number": 59,
+          "title": "Mess",
+          "imageCount": 23,
+          "path": "volumes/v07/ch059",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch059"
+        },
+        {
+          "id": "ch060",
+          "number": 60,
+          "title": "Quanxi and the Fiends' 49-Person Massacre",
+          "imageCount": 22,
+          "path": "volumes/v07/ch060",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch060"
+        },
+        {
+          "id": "ch061",
+          "number": 61,
+          "title": "News Reporter",
+          "imageCount": 31,
+          "path": "volumes/v07/ch061",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v07/ch061"
+        }
+      ]
+    },
+    {
+      "id": "v08",
+      "number": 8,
+      "title": "Chainsaw Man - Digital Colored Comics v08 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch062",
+          "number": 62,
+          "title": "Super Mess",
+          "imageCount": 26,
+          "path": "volumes/v08/ch062",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch062"
+        },
+        {
+          "id": "ch063",
+          "number": 63,
+          "title": "Trip to Hell",
+          "imageCount": 19,
+          "path": "volumes/v08/ch063",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch063"
+        },
+        {
+          "id": "ch064",
+          "number": 64,
+          "title": "Welcome to Hell",
+          "imageCount": 19,
+          "path": "volumes/v08/ch064",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch064"
+        },
+        {
+          "id": "ch065",
+          "number": 65,
+          "title": "The Darkness Devil",
+          "imageCount": 19,
+          "path": "volumes/v08/ch065",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch065"
+        },
+        {
+          "id": "ch066",
+          "number": 66,
+          "title": "Woof!",
+          "imageCount": 20,
+          "path": "volumes/v08/ch066",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch066"
+        },
+        {
+          "id": "ch067",
+          "number": 67,
+          "title": "The First Devil Hunter",
+          "imageCount": 20,
+          "path": "volumes/v08/ch067",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch067"
+        },
+        {
+          "id": "ch068",
+          "number": 68,
+          "title": "Dark Power",
+          "imageCount": 19,
+          "path": "volumes/v08/ch068",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch068"
+        },
+        {
+          "id": "ch069",
+          "number": 69,
+          "title": "Shining Power",
+          "imageCount": 18,
+          "path": "volumes/v08/ch069",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch069"
+        },
+        {
+          "id": "ch070",
+          "number": 70,
+          "title": "Pinch",
+          "imageCount": 28,
+          "path": "volumes/v08/ch070",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v08/ch070"
+        }
+      ]
+    },
+    {
+      "id": "v09",
+      "number": 9,
+      "title": "Chainsaw Man - Digital Colored Comics v09 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch071",
+          "number": 71,
+          "title": "Bath",
+          "imageCount": 28,
+          "path": "volumes/v09/ch071",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch071"
+        },
+        {
+          "id": "ch072",
+          "number": 72,
+          "title": "All Together",
+          "imageCount": 20,
+          "path": "volumes/v09/ch072",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch072"
+        },
+        {
+          "id": "ch073",
+          "number": 73,
+          "title": "Everyday Life No More",
+          "imageCount": 22,
+          "path": "volumes/v09/ch073",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch073"
+        },
+        {
+          "id": "ch074",
+          "number": 74,
+          "title": "What the Waves Say",
+          "imageCount": 20,
+          "path": "volumes/v09/ch074",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch074"
+        },
+        {
+          "id": "ch075",
+          "number": 75,
+          "title": "9,12",
+          "imageCount": 16,
+          "path": "volumes/v09/ch075",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch075"
+        },
+        {
+          "id": "ch076",
+          "number": 76,
+          "title": "Don't Open It",
+          "imageCount": 16,
+          "path": "volumes/v09/ch076",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch076"
+        },
+        {
+          "id": "ch077",
+          "number": 77,
+          "title": "Ring Ring Ring",
+          "imageCount": 19,
+          "path": "volumes/v09/ch077",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch077"
+        },
+        {
+          "id": "ch078",
+          "number": 78,
+          "title": "Snowball Fight",
+          "imageCount": 17,
+          "path": "volumes/v09/ch078",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch078"
+        },
+        {
+          "id": "ch079",
+          "number": 79,
+          "title": "Play Catch",
+          "imageCount": 25,
+          "path": "volumes/v09/ch079",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v09/ch079"
+        }
+      ]
+    },
+    {
+      "id": "v10",
+      "number": 10,
+      "title": "Chainsaw Man - Digital Colored Comics v10 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch080",
+          "number": 80,
+          "title": "A Dog's Feeling",
+          "imageCount": 26,
+          "path": "volumes/v10/ch080",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch080"
+        },
+        {
+          "id": "ch081",
+          "number": 81,
+          "title": "Give Paw",
+          "imageCount": 18,
+          "path": "volumes/v10/ch081",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch081"
+        },
+        {
+          "id": "ch082",
+          "number": 82,
+          "title": "Always Eat a Hearty Breakfast",
+          "imageCount": 19,
+          "path": "volumes/v10/ch082",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch082"
+        },
+        {
+          "id": "ch083",
+          "number": 83,
+          "title": "Death, Resurrection, Chainsaw",
+          "imageCount": 17,
+          "path": "volumes/v10/ch083",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch083"
+        },
+        {
+          "id": "ch084",
+          "number": 84,
+          "title": "Hero of Hell",
+          "imageCount": 19,
+          "path": "volumes/v10/ch084",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch084"
+        },
+        {
+          "id": "ch085",
+          "number": 85,
+          "title": "Bloody Good Gut Feeling",
+          "imageCount": 23,
+          "path": "volumes/v10/ch085",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch085"
+        },
+        {
+          "id": "ch086",
+          "number": 86,
+          "title": "Date Chainsaw",
+          "imageCount": 19,
+          "path": "volumes/v10/ch086",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch086"
+        },
+        {
+          "id": "ch087",
+          "number": 87,
+          "title": "Chainsaw Man vs. the Horrifying Weapon Humans",
+          "imageCount": 17,
+          "path": "volumes/v10/ch087",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch087"
+        },
+        {
+          "id": "ch088",
+          "number": 88,
+          "title": "Star Chainsaw",
+          "imageCount": 25,
+          "path": "volumes/v10/ch088",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v10/ch088"
+        }
+      ]
+    },
+    {
+      "id": "v11",
+      "number": 11,
+      "title": "Chainsaw Man - Digital Colored Comics v11 (2022) (Colored Council)",
+      "chapters": [
+        {
+          "id": "ch089",
+          "number": 89,
+          "title": "Go Get 'Em, Chainsaw Man",
+          "imageCount": 25,
+          "path": "volumes/v11/ch089",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch089"
+        },
+        {
+          "id": "ch090",
+          "number": 90,
+          "title": "Super Power",
+          "imageCount": 21,
+          "path": "volumes/v11/ch090",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch090"
+        },
+        {
+          "id": "ch091",
+          "number": 91,
+          "title": "Power, Power, Power",
+          "imageCount": 21,
+          "path": "volumes/v11/ch091",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch091"
+        },
+        {
+          "id": "ch092",
+          "number": 92,
+          "title": "Zombie, Blood, Chainsaw",
+          "imageCount": 19,
+          "path": "volumes/v11/ch092",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch092"
+        },
+        {
+          "id": "ch093",
+          "number": 93,
+          "title": "You & Crappy Movies",
+          "imageCount": 18,
+          "path": "volumes/v11/ch093",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch093"
+        },
+        {
+          "id": "ch094",
+          "number": 94,
+          "title": "Chainsaw Man vs. the Weapon Humans",
+          "imageCount": 20,
+          "path": "volumes/v11/ch094",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch094"
+        },
+        {
+          "id": "ch095",
+          "number": 95,
+          "title": "Chainsaw Man vs. Control Devil",
+          "imageCount": 19,
+          "path": "volumes/v11/ch095",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch095"
+        },
+        {
+          "id": "ch096",
+          "number": 96,
+          "title": "This Kind of Taste",
+          "imageCount": 18,
+          "path": "volumes/v11/ch096",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch096"
+        },
+        {
+          "id": "ch097",
+          "number": 97,
+          "title": "I, Love, Chainsaw",
+          "imageCount": 27,
+          "path": "volumes/v11/ch097",
+          "imageFormat": "jpg",
+          "imagePath": "/manga/volumes/v11/ch097"
+        }
+      ]
+    }
+  ]
+}
